@@ -9215,7 +9215,7 @@ function Layout() {
                                     children: jsxRuntimeExports.jsx(Link, {
                                       className:
                                         "text-[16px] leading-[24px] text-white/80 hover:text-[#D6FC70] transition-colors duration-200 hover:translate-x-1 inline-block",
-                                      to: "https://www.dextools.io/app/ether/pair-explorer/0x9f36308dfd2fed45371d7bc13ce83f20b69d1694",
+                                      to: "https://www.dextools.io/app/ether/pair-explorer/0xa87c777509b21049f573ae84fa0ae627bfb044e4",
                                       children: k(
                                         "footer.Dextools",
                                         "Dextools"
